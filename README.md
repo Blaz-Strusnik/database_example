@@ -3,8 +3,8 @@
 Documentation for importing landmarks_postgis database
 
 Prerequests:
-Postgresql 
-pgadmin
+Postgresql, 
+pgadmin,
 postgis
 
 1. download the landmarks_postgis database tar file
