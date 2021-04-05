@@ -21,3 +21,5 @@ postgis
 
 PostgreSQL 10.16, compiled by Visual C++ build 1800, 64-bit
 POSTGIS="3.1.1 3.1.1" [EXTENSION] PGSQL="100" GEOS="3.9.0-CAPI-1.14.1" SFCGAL="1.3.8" PROJ="7.1.1" LIBXML="2.9.9" LIBJSON="0.12" LIBPROTOBUF="1.2.1" WAGYU="0.5.0 (Internal)" TOPOLOGY
+
+P.S. i selected these versions because they are more compatible with other OS.
